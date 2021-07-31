@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/matheus-gava-silva/" target="_blank">
   <img align="center" alt="gava-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
+<a hrtef="mailto:matheus.gava3@gmail.com" target="_blank">
+  <img align="center" alt"gava-email" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+</a>
 
 ## My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" witdh="40" height="40" style="max-width:100%;"></img>
@@ -25,5 +28,3 @@
 ![Gava's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTGava&theme=react&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTGava&layout=compact)](https://github.com/MTGava/github-readme-stats)
-
-
