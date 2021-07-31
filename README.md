@@ -8,8 +8,7 @@
 ## Get in touch
 <a href="https://www.linkedin.com/in/matheus-gava-silva/" target="_blank">
   <img align="center" alt="gava-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
-<a hrtef="mailto:matheus.gava3@gmail.com" target="_blank">
+</a> <a href="mailto:matheus.gava3@gmail.com" target="_blank">
   <img align="center" alt"gava-email" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
 </a>
 
