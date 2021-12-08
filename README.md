@@ -1,7 +1,7 @@
 ### Hello everyone! 👊
 ## I'm Matheus Gava
 - I'm student of Computer's Engineering 💻 at [FIAP](https://www.fiap.com.br/)
-- I have been working on Indra as Junior Systems Engineer
+- I have been working on Indra as Junior System Engineer
 - 🌐 [Home Page](https://mtgava.github.io/home_page/) 🌐
 
 ## Get in touch
